@@ -1,3 +1,5 @@
 created for new branch
 
 modify in new branch
+modified data will be visible only in the branch where it is created not on the master branch unless it is merged with the master branch
+
