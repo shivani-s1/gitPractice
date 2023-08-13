@@ -1,0 +1,10 @@
+git init - Install git on local machine and "git init" to create your local repository.
+
+git clone - Download or clone your repository from github.
+
+git status - tells which files are added to index and are ready to commit.
+
+git add - lets u add files to your index.
+
+git commit - it refers to recording snapshots of the repository at a given time.
+-committed snapshots will never change unless done explicitly.
