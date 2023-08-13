@@ -8,3 +8,9 @@ git add - lets u add files to your index.
 
 git commit - it refers to recording snapshots of the repository at a given time.
 -committed snapshots will never change unless done explicitly.
+
+examples: git add filename.txt (for adding single file)
+git -A (for adding all the files)
+
+git commit -m "msg" 
+git commit -a -m "msg" (for committing all the files)
